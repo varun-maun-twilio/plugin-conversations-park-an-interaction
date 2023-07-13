@@ -1,0 +1,23 @@
+.parkedConversations{
+    display: block;
+    padding: 2rem;
+}
+
+.parkedConversations h2{
+    font-size: 2rem;
+    font-weight: 700;
+    padding: 2rem 1rem;
+
+}
+
+.parkedConversations ul{
+    list-style-type: circle;
+}
+
+.parkedConversations li{
+    margin-left: 10px;
+    display: block;
+    padding: 10px 20px;
+    border:1px solid #ccc;
+    margin-bottom: 10px;
+}
